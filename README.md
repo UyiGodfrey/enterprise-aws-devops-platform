@@ -96,60 +96,60 @@ Health Endpoint
 
 ## 1. GitHub Repository
 
-![GitHub Repository]
+
 
 ---
 
 ## 2. GitHub Actions Pipeline
 
-![GitHub Actions]
+
 
 ---
 
 ## 3. Docker Running Locally
 
-![Docker]
+
 
 ---
 
 ## 4. Amazon ECR Repository
 
-![Amazon ECR]
+
 
 ---
 
 ## 5. Docker Image Stored in Amazon ECR
 
-![Amazon ECR Image]
+
 
 ---
 
 ## 6. Amazon ECS Cluster
 
-![ECS Cluster]
+
 
 ---
 
 ## 7. ECS Task Definition
 
-![Task Definition]
+
 
 ---
 
 ## 8. ECS Service
 
-![ECS Service]
+
 
 ---
 
 ## 9. Running AWS Fargate Task
 
-![Running Task]
+
 ---
 
 ## 10. Health Check
 
-![Health Endpoint]
+
 
 ---
 
